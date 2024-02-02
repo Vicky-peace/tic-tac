@@ -25,3 +25,15 @@ body{
   flex-direction: row;
   
 }
+
+.square{
+  flex: 33%;
+  height: 100%;
+  border: 1ps solid black;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  font-size: 30px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
